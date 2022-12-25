@@ -7,7 +7,7 @@
     <title>{{ config('app.name') . ' | ' . config('app.unit_name') }}</title>
 
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <link rel="shortcut icon" href="{{ asset('images/logo-tapsel.png') }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('images/logo.png') }}" type="image/x-icon">
     <link rel="stylesheet" href="{{ asset('builder/css/app.css') }}">
     <link href="{{ asset('builder/css/preloader.min.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="{{ asset('backend-assets/css/style.min.css') }}">

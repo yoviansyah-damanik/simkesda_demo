@@ -7,16 +7,17 @@
                         <img class="img-fluid" src="{{ asset('images/logo-dinkes-simkesda.png') }}" alt="Logo Dinkes">
 
                         <p class="mt-3">
-                            SIMKESDA (Sistem Informasi Kesehatan Daerah) Kabupaten Tapanuli Selatan merupakan
-                            suatu media yang digunakan untuk mempermudah penyebaran dan pengelolaan informasi
-                            kesehatan daerah berbasis aplikasi website. Aplikasi ini dikelola langsung oleh
-                            Dinas Kesehatan Kabupaten Tapanuli Selatan.
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam nobis ex voluptates. Optio
+                            minima dolorem ipsum numquam deserunt facilis officiis corrupti commodi, ipsam, architecto,
+                            soluta eum culpa accusantium nesciunt expedita? In aperiam, cupiditate sint labore et
+                            nesciunt ratione reiciendis. Voluptas magnam repellat tempore possimus enim reiciendis!
+                            Corporis qui quas id.
                         </p>
 
                         <hr />
                         <div class="small mb-3">
                             <div class="fw-bold text-uppercase">
-                                Dinas Kesehatan Kabupaten Tapanuli Selatan
+                                Dinas Kesehatan
                             </div>
                             <table class="table table-sm table-borderless">
                                 <tr>
@@ -32,7 +33,7 @@
                                         <i class="fas fa-envelope"></i>
                                     </td>
                                     <td>
-                                        simkesda@tapselkab.go.id
+                                        simkesda@example.go.id
                                     </td>
                                 </tr>
                                 <tr>
@@ -40,14 +41,14 @@
                                         <i class="fas fa-house-chimney-medical"></i>
                                     </td>
                                     <td>
-                                        Kompleks Perkantoran Pemerintahan Tapanuli Selatan Jalan Profesor Lafran Pane
-                                        Sipirok. Kode Pos 22742
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium,
+                                        perferendis.
                                     </td>
                                 </tr>
                             </table>
                         </div>
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.4196153265634!2d99.3023810064275!3d1.517179006751781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x302c23268c2b2df3%3A0xaa9fe777ce8731a1!2sDinas%20Kesehatan%20Daerah%20Kab.%20Tapanuli%20Selatan!5e0!3m2!1sid!2sid!4v1638134402155!5m2!1sid!2sid"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15954.532402401606!2d99.24354643955078!3d1.3965975000000086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x302c1de8512034b5%3A0x31855af7c3d589b8!2sKopi%20Adope!5e0!3m2!1sid!2sid!4v1671989258700!5m2!1sid!2sid">
                             width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                     </div>
                 </div>

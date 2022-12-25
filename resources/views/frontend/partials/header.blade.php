@@ -19,7 +19,7 @@
     <meta property="og:image" content="{{ isset($image) ? asset($image) : asset('images/ads.png') }}">
 
     {{-- Favicon --}}
-    <link rel="shortcut icon" href="{{ asset('images/logo-tapsel.png') }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('images/logo.png') }}" type="image/x-icon">
     <title>{{ config('app.name') . ' | ' . config('app.unit_name') }}</title>
 
     {{-- Styles --}}
