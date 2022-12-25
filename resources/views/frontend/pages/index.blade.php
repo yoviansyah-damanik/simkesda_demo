@@ -79,7 +79,7 @@
                     <div class="content-box">
                         <div class="title">Berita Terkini</div>
                         <div class="subtitle">
-                            Seputar Informasi Kesehatan di Kabupaten Tapanuli Selatan.
+                            Seputar Informasi Kesehatan di Demo Version.
                         </div>
                         @if ($posts->count())
                             <div class="content-data">
@@ -105,7 +105,7 @@
                     <div class="content-box">
                         <div class="title">Pengumuman</div>
                         <div class="subtitle">
-                            Pengumuman resmi Dinas Kesehatan Kabupaten Tapanuli Selatan.
+                            Pengumuman resmi Dinas Kesehatan Demo Version.
                         </div>
                         @if ($announcements->count())
                             <div class="content-data">

@@ -7,7 +7,7 @@
             <div class="content-box">
                 <h4 class="title">Berita</h4>
                 <div class="subtitle">
-                    Seputar Informasi Kesehatan di Kabupaten Tapanuli Selatan.
+                    Seputar Informasi Kesehatan di Demo Version.
                 </div>
                 @if ($posts->count())
                     <div class="content-data">

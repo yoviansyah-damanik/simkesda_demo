@@ -7,7 +7,7 @@
             <div class="content-box">
                 <h4 class="title">Pengumuman</h4>
                 <div class="subtitle">
-                    Pengumuman resmi Dinas Kesehatan Kabupaten Tapanuli Selatan.
+                    Pengumuman resmi Dinas Kesehatan Demo Version.
                 </div>
                 @if ($announcements->count())
                     <div class="content-data">

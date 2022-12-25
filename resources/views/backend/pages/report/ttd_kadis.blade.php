@@ -39,7 +39,7 @@
             <strong>KEPALA DINAS KESEHATAN</strong>
         </p>
         <p>
-            <strong>KABUPATEN TAPANULI SELATAN</strong>
+            <strong>Demo Version</strong>
         </p>
         <div class="space-ttd"></div>
         <div class="nama-ttd">

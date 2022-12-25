@@ -2,7 +2,7 @@
     <div class="container footer--flex">
         <div class="footer-start">
             <p> Version {{ config('app.version') }} |
-                {{ date('Y') }} © SIMKESDA Kabupaten Tapanuli Selatan -
+                {{ date('Y') }} © SIMKESDA Demo Version -
                 <a href="{{ url(route('homepage')) }}" target="_blank" rel="noopener noreferrer">
                     {{ url(route('homepage')) }}
                 </a>

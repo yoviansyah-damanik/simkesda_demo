@@ -5,7 +5,7 @@
         $x_3 = 600;
         $y = 568;
 
-        $text = "Diakses melalui {{ url('/') }} | SIMKESDA Kabupaten Tapanuli Selatan";
+        $text = "Diakses melalui {{ url('/') }} | SIMKESDA Demo Version";
         $text_2 = "{PAGE_NUM} / {PAGE_COUNT}";
         $text_3 = "{{ Str::random(8) }}";
         $font = $fontMetrics->get_font("serif");

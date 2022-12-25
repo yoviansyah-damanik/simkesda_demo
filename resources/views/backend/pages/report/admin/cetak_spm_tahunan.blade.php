@@ -112,7 +112,7 @@
         <div class="top_right">
             <h4 style="color:#267a5d; margin: 0">SIMKESDA</h4>
             <p style="margin: 0">Sistem Informasi Kesehatan Daerah</p>
-            <p style="margin: 0">Kabupaten Tapanuli Selatan</p>
+            <p style="margin: 0">Demo Version</p>
         </div>
     </div>
 
