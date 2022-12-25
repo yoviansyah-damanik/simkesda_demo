@@ -1,8 +1,8 @@
-# <p align='center'>SISTEM INFORMASI KESEHATAN DAERAH KABUPATEN TAPANULI SELATAN</p>
+# <p align='center'>DEMO SISTEM INFORMASI KESEHATAN DAERAH</p>
 
 ## List of Version
 
-### Version 1.0.0 (now)
+### Version 1.0.0
 
 -   Menambahkan Fitur Template Prioritas
 -   Menambahkan Fitur SPM
@@ -16,7 +16,7 @@
 -   Konfigurasi Awal Sistem
 -   Menambahkan User Rules and Permission
 
-### Version 1.1.0
+### Version 1.1.0 (NOW)
 
 -   Menambahkan Fitur Slider
 -   Menambahkan Grafik Data
