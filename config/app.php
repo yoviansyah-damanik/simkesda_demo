@@ -14,7 +14,7 @@ return [
     */
 
     'name' => env('APP_NAME', 'SIMKESDA'),
-    'unit_name' => env('UNIT_NAME', 'Dinas Kesehatan Kabupaten Tapanuli Selatan'),
+    'unit_name' => env('UNIT_NAME', 'Dinas Kesehatan'),
     'version' => env('APP_VERSION', 'Alpha Test'),
     'pagination_length' => env('PAGINATION_LENGTH', 25),
 
