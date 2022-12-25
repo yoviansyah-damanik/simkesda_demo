@@ -8,7 +8,7 @@
                     <div class="row g-0">
                         <div class="col-md-5 position-relative d-none d-md-block position-relative overflow-hidden">
                             <img class="position-absolute top-50 start-50 translate-middle"
-                                src="{{ asset('images/komplek-perkantoran.jpg') }}" alt="Login Background">
+                                src="{{ asset('images/login-background.png') }}" alt="Login Background">
                             <div class="opacity-50 bg-dark position-absolute top-0 bottom-0 start-0 end-0"></div>
                         </div>
                         <div class="col-md-7">
@@ -57,7 +57,7 @@
                                             <i class="fas fa-key"></i>
                                         </span>
                                         <input type="password" name="password" id="password" class="form-control"
-                                             placeholder="Kata Sandi" required>
+                                            placeholder="Kata Sandi" required>
                                     </div>
                                     @error('password')
                                         <div class="text-danger
